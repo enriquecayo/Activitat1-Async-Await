@@ -28,6 +28,7 @@ function provaPartA() {
 }
 
 async function provaPartB() {
+    console-log("");
     console.log("Part B (Async/Await)");
     console.log("1");
 
